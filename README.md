@@ -68,7 +68,7 @@ A **React-based** web application for interactively visualizing and learning key
 1. **Clone** your project repo:
 
    ```bash
-   git clone https://github.com/Akshith-desu/algo-visualizer.git
+   git clone https://github.com/Abhinavyogish/AlgorithmAnalyzingVisualizer.git
    cd advanced-algo-visualizer
    ```
 
